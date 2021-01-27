@@ -261,7 +261,7 @@
 
             // current explorer: https://shndexplorer.xyz/api/getdifficulty
             $.ajax({
-                url: "https://www.coinexplorer.net/api/v1/SHND/block/latest",
+                url: "http://explorer.stronghands.info",
                 dataType: "json",
                 success: function( response ) {
                     difficultyInput.value = response["proof-of-stake"];
