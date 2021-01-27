@@ -5,7 +5,7 @@ https://calculator.stronghands.info/
 
 JavaScript-based Proof-Of-Stake (POS) reward calculator for Stronghands (SHND).<br>Tool is now in version 1.
 
-Created by FuzzyBear of [Peercointalk](http://peercointalk.org/).
+Created by FuzzyBear of [Peercointalk](http://peercointalk.org/), forked and improved by [alexorbit](https://github.com/alexorbit/).
 
 ## Helping Out
 
@@ -13,7 +13,7 @@ Created by FuzzyBear of [Peercointalk](http://peercointalk.org/).
 
 Stronghands Donation Address: **```SeetDtND322wNxq4aQ3NgUBYU5kGC5pcYb```**
 
-![Stronghands Proof-Of-Stake (POS) Calculator Donation QR Code](http://peer4commit.com/projects/5/qrcode.svg "Donate stronghands to this project")
+![Stronghands Proof-Of-Stake (POS) Calculator Donation QR Code](https://i.ibb.co/104BsW2/Captura-de-Tela-2021-01-27-a-s-12-21-57.png "Donate stronghands to this project")
 
 Please send donations to the above address in order to encourage development contributions, such as code improvements, translations, etc.
 
