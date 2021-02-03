@@ -263,7 +263,7 @@
 
             // current explorer: https://shndexplorer.xyz/api/getdifficulty
             $.ajax({
-                url: "https://shndexplorer.xyz/api/getdifficulty",
+                url: "https://explorer.stronghands.info/api/getdifficulty",
                 dataType: "json",
                 success: function( response ) {
                     difficultyInput.value = response["proof-of-stake"];
