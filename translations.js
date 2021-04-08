@@ -1,6 +1,6 @@
 var translations = {
     "en": {
-        "title": "Stronghands POS Calculator",
+        "title": "StrongHands POS Calculator",
         "header_prefix": "Languages: ",
         "header_title": "Stronghands Proof-Of-Stake (POS) Calculator v1.0",
         "intro": "This tool does only one thing but it does it well: calculate probability to generate a POS Stronghands block. You can adjust:",
@@ -26,7 +26,7 @@ var translations = {
     "de": {
         "title": "Stronghands POS Rechner",
         "header_prefix": "Sprachen: ",
-        "header_title": "Stronghands Nachweis-der-Beteiligung (POS) Rechner v1.0",
+        "header_title": "StrongHands Nachweis-der-Beteiligung (POS) Rechner v1.0",
         "intro": "Dieses Online-Tool macht nur eines, aber es macht es gut : die Warscheinlichkeit rechnen, einen Stronghands-POS-Block zu erzeugen. Sie können ändern.",
         "desc1": "Der Betrag der Transaktion",
         "desc2": "Die Anzahl der Tage die seit der Transaktion vergangen sind. Die Warscheinlichkeit, einen POS-Block zu erzeugen, ist vor 30 Tagen Null und erreicht ihr Maximum nach 90 Tagen. Die Warscheinlichkeit erhöht weiter nicht.",
@@ -50,11 +50,11 @@ var translations = {
 	"pt": {
         "title": "Calculadora POS Stronghands",
         "header_prefix": "Idiomas: ",
-        "header_title": "Calculadora Proof-Of-Stake (POS) Stronghands v1.0",
-        "intro": "Esta ferramenta faz apenas uma coisa, mas faz bem: calcula a propabilidade de gerar um bloco POS Stronghands. Você pode ajustar:",
+        "header_title": "Calculadora Proof-Of-Stake (POS) StrongHands v1.0",
+        "intro": "Esta ferramenta faz apenas uma coisa e muito bem: calcula a probabilidade de gerar um bloco POS Stronghands. Você pode ajustar:",
         "desc1": "A quantidade de coins que voce enviou em uma transação",
-        "desc2": "A quantidade de dias passados. The probability of minting is null before 30 days and reaches its maximum after 90 days and doesn't increase after that",
-        "desc3": "The POS difficulty to get a readout. At launch, tool gets the last value for POS difficulty directly from the Stronghands blockchain",
+        "desc2": "A quantidade de dias passados. A probabilidade de minting é zerada depois de 30 dias atingindo um máximo após 90 dias e não aumentará após isto.",
+        "desc3": "A dificuldade POS para leitura. Ao lançamento, a ferramenta recebe o último valor diretamente da blockchain da Stronghands",
         "entry_coins": "Quantidade de coins",
         "entry_days": "Idade da transação (em dias)",
         "entry_difficulty": "Dificuldade POS",
@@ -66,13 +66,13 @@ var translations = {
         "prob_1y": "1 ano",
         "prob_prob": "Probabilidade",
         "reward_block": "Recompensa",
-        "footer_peer4commit": "Donate to the development of this project",
-        "footer_peercointalk": "Donate to Stronghands projects",
+        "footer_peer4commit": "Doe para o desenvolvimento deste projeto",
+        "footer_peercointalk": "Doe para os Projetos Stronghands",
         "footer_github": "Contribute to this project on GitHub",
-        "noscript-text": "Stronghands POS Calculator requires Javascript to work. Please enable it (<a href='https://www.enable-javascript.com/'>Comment activer Javascript</a>) and refresh."
+        "noscript-text": "Stronghands POS Calculator necessita de Javascript para funcionar. Favor ligar (<a href='https://www.enable-javascript.com/'>Comment activer Javascript</a>) and refresh."
     },
     "es": {
-        "title": "Stronghands POS Calculadora",
+        "title": "StrongHands POS Calculadora",
         "header_prefix": "Idiomas: ",
         "header_title": "Stronghands Prueba-De-Juego (POS) Calculadora v0.0.1",
         "intro": "Esta herramienta hace una cosa pero lo hace bien: calcule la probabilidad de generar un bloque POS Stronghands. Puede cambiar:",
@@ -96,7 +96,7 @@ var translations = {
         "noscript-text": "La Stronghands POS calculadora necesita JavaScript para funcionar. Habilítelo (<a href='https://www.enable-javascript.com/es'> Cómo habilitar Javascript </a>) y actualiza."
     },
     "fr": {
-        "title": "Stronghands Calculateur POS",
+        "title": "StrongHands Calculateur POS",
         "header_prefix": "Langues : ",
         "header_title": "Calculateur Preuve-de-Part (POS) Stronghands v1.0",
         "intro": "Cet outil en ligne ne fait qu'une chose mais il le fait bien : calculer la probabilité de générer un bloc POS Stronghands. Vous pouvez modifier :",
@@ -120,7 +120,7 @@ var translations = {
         "noscript-text": "Le calculateur POS Stronghands a besoin de Javascript pour fonctionner. Merci d'activer Javascript (<a href='https://www.enable-javascript.com/fr/'>Comment activer Javascript</a>) et rafraichissez."
     },
     "nl": {
-        "title": "Stronghands POS Calculator",
+        "title": "StrongHands POS Calculator",
         "header_prefix": "Talen: ",
         "header_title": "Stronghands Bewijs van Aandeel (POS) Calculator v0.0.1",
         "intro": "Het zijn nog de begindagen... dus alleen basis functies, maar u kan:",
@@ -192,7 +192,7 @@ var translations = {
         "footer_github": "在GitHub上完善这个项目吧"
     },
     "cs": {
-        "title": "Stronghands POS kalkulačka",
+        "title": "StrongHands POS kalkulačka",
         "header_prefix": "Jazyky: ",
         "header_title": "Stronghands potvrzení vlastnictvím=Proof-of-stake (POS) kalkulátor v0.0.1",
         "intro": "Aktuálně jsou zde pouze jednoduché funkce ale můžete:",
@@ -222,7 +222,7 @@ var translations = {
         "footer_github": "Pomož tomuto projektu na GitHubu"
     },
 	"no": {
-        "title": "Stronghands POS Kalkulator",
+        "title": "StrongHands POS Kalkulator",
         "header_prefix": "Språk: ",
         "header_title": "Stronghands Proof-Of-Stake (POS) Kalkulator v0.0.1",
         "intro": "Vi er tidlig i utviklingen... foreløpig er funksjonene simple, men du kan:",
